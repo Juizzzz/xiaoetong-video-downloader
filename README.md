@@ -26,6 +26,8 @@ sudo pip3 install ffmpy m3u8 beautifulsoup4 lxml requests
 ruby -e"$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
+【国内可使用这个方法快速安装】
+
 安装`ffmeg`的命令是：
 ```
 brew install ffmpeg
